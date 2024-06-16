@@ -31,7 +31,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace Lab_22_Dykyi {
+namespace Lab_22_Shostya {
     
     
     /// <summary>
@@ -59,7 +59,7 @@ namespace Lab_22_Dykyi {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Lab 22 Dykyi;component/newdocumentwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Lab 22 Shostya;component/newdocumentwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\NewDocumentWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

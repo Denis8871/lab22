@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab_22_Dykyi.Properties
+namespace Lab_22_Shostya.Properties
 {
 
 

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Lab_22_Dykyi
+namespace Lab_22_Shostya
 {
     public partial class App : Application
     {

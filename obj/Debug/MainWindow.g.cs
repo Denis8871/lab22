@@ -31,7 +31,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace Lab_22_Dykyi {
+namespace Lab_22_Shostya {
     
     
     /// <summary>

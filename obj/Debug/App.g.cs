@@ -31,7 +31,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace Lab_22_Dykyi {
+namespace Lab_22_Shostya {
     
     
     /// <summary>
@@ -57,7 +57,7 @@ namespace Lab_22_Dykyi {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/Lab 22 Dykyi;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Lab 22 Shostya;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -73,7 +73,7 @@ namespace Lab_22_Dykyi {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            Lab_22_Dykyi.App app = new Lab_22_Dykyi.App();
+            Lab_22_Shostya.App app = new Lab_22_Shostya.App();
             app.InitializeComponent();
             app.Run();
         }

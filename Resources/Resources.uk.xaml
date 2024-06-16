@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Title">Текстовий редактор</sys:String>
+    <sys:String x:Key="File">Файл</sys:String>
+    <sys:String x:Key="Edit">Редагувати</sys:String>
+    <sys:String x:Key="New">Новий</sys:String>
+    <sys:String x:Key="Open">Відкрити</sys:String>
+    <sys:String x:Key="Save">Зберегти</sys:String>
+    <sys:String x:Key="SaveAs">Зберегти як</sys:String>
+    <sys:String x:Key="AlignLeft">Вирівняти ліворуч</sys:String>
+    <sys:String x:Key="AlignCenter">Вирівняти по центру</sys:String>
+    <sys:String x:Key="AlignRight">Вирівняти праворуч</sys:String>
+    <sys:String x:Key="Justify">Вирівняти по ширині</sys:String>
+    <sys:String x:Key="Font">Шрифт</sys:String>
+    <sys:String x:Key="ChangeFontColor">Змінити колір</sys:String>
+    <sys:String x:Key="AddImage">Додати зображення</sys:String>
+    <sys:String x:Key="Language">Мова</sys:String>
+    <sys:String x:Key="English">Англійська</sys:String>
+    <sys:String x:Key="Ukrainian">Українська</sys:String>
+</ResourceDictionary>

@@ -1,0 +1,20 @@
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\MainWindow.baml
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\App.baml
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\MainWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\App.g.cs
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya_MarkupCompile.cache
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.g.resources
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab_22_Shostya.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\bin\Debug\Lab 22 Shostya.exe.config
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\bin\Debug\Lab 22 Shostya.exe
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\bin\Debug\Lab 22 Shostya.pdb
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Resources\Resources.en.baml
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Resources\Resources.uk.baml
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.exe
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.pdb
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\bin\Debug\ICSharpCode.AvalonEdit.xml
+D:\Coding\Visual Studio\VS projects\Lab 22 Shostya\obj\Debug\Lab 22 Shostya.csproj.CopyComplete

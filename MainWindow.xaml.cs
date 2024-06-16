@@ -11,7 +11,7 @@ using Forms = System.Windows.Forms;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
 
-namespace Lab_22_Dykyi
+namespace Lab_22_Shostya
 {
     public partial class MainWindow : Window
     {
